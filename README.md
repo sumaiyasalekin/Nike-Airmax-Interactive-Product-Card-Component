@@ -14,6 +14,15 @@ A modular, interactive e-commerce product card UI component built with dynamic c
 * **Design Tool:** Figma (Component Variants, Smart Animate, Auto Layout)
 * **Suggested Tech Stack:** React / Vue.js, Tailwind CSS, Framer Motion
 
+## 🎨 Figma Prototype
+
+An interactive **Nike Air Max product card component** designed in Figma, focusing on modern visual design, product presentation, and an engaging user experience.
+
+🔗 **[View Interactive Figma Design](https://www.figma.com/design/iWWI0swq8MWlGiqQr54ekz/Untitled?node-id=0-1&t=pjWa7VuonPFMDSVP-1)**
+
+> Explore the design and interact with the prototype directly in Figma.
+
+
 ##  Component Variants
 
 | Variant | Default State | Active/Hover State | Theme Color |
